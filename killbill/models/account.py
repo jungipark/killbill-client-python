@@ -70,7 +70,6 @@ class Account(object):
         'phone': 'Str',
         'notes': 'Str',
         'is_migrated': 'Bool',
-        'is_notified_for_invoices': 'Bool',
         'account_balance': 'Float',
         'account_cba': 'Float',
         'audit_logs': 'List[AuditLog]'
