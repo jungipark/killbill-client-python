@@ -102,7 +102,6 @@ class Account(object):
         'phone': 'phone',
         'notes': 'notes',
         'is_migrated': 'isMigrated',
-        'is_notified_for_invoices': 'isNotifiedForInvoices',
         'account_balance': 'accountBalance',
         'account_cba': 'accountCBA',
         'audit_logs': 'auditLogs'

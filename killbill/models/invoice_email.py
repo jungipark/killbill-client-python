@@ -56,7 +56,6 @@ class InvoiceEmail(object):
 
     attribute_map = {
         'account_id': 'accountId',
-        'is_notified_for_invoices': 'isNotifiedForInvoices',
         'audit_logs': 'auditLogs'
     }
 
